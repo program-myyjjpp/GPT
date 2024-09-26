@@ -1,0 +1,10 @@
+{
+    "out_path": "/Users/Administrator/Desktop/post/demo/date/",
+    "file_path": "keywords.txt",
+    "API_KEYS_PATH": "apikey.txt",
+    "zl_path": "xunliantext.txt",
+    "title_ljf_f": "-",
+    "title_ljf_b": "",
+    "max_thr_num": "1",
+    "title_mode": "0"
+}
